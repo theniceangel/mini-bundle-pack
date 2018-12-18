@@ -1,0 +1,1 @@
+export const house = 'a big and beautiful house.'
